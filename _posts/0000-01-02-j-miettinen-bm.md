@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Don't let schooling interfere with your education." Mark Twain
+
 Use the left arrow to go back!
